@@ -24,6 +24,7 @@
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&logoColor=FFA518)&nbsp;
+![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=Symfony&logoColor=FFA518)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
